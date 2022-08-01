@@ -35,7 +35,7 @@ nav{
 span{
 	color: #f9004d;
 }
-/*nav ul li{
+nav ul li{
 	list-style-type: none;
 	display: inline-flex;
 	padding: 10px  25px;
@@ -50,7 +50,7 @@ nav ul li a:hover{
 	color: #f9004d;
 	transition: .4s;
 } 
-.btn{
+/*.btn{
 	background-color:#f9004d;
 	color: white;
 	text-decoration: none;
